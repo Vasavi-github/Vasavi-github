@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on ...SQL Projects
 - 🤔 I’m looking for help with ...Smart way to use github
 - 💬 Ask me about ...Any Data Analytics projects related questions
-- 📫 How to reach me: vasavihegde37@gmail.com
+- 📫 How to reach me: vasavihegde37@gmail.com / https://www.linkedin.com/in/vasavi-hegde-4aba82148/
 
