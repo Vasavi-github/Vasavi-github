@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a Master's candidate in Data Analytics with a passion for solving business problems using Data and Analytics to drive positive impact. With a strong record of success in diverse roles, including Data Governance/Quality Analyst, Data Warehouse Consultant, Reporting Analyst, and Citrix Support Engineer, I bring a unique blend of technical expertise and business acumen to the table.
+I am a Business Data Analyst specializing in collecting, processing, and analyzing data to extract meaningful insights and support decision-making within an organization. My journey through various roles, spanning from Data Governance/Quality Analyst, Data Analyst, and reporting Analyst has honed a distinctive skill set that combines technical proficiency with a deep understanding of business dynamics. In this introductory note, I invite you to explore the wealth of knowledge and experience I bring to the realm of data-driven decision-making.
 
 In my previous role as a Reporting Analyst, I played a pivotal role in achieving a remarkable 15% increase in profit compared to previous sales through data-driven decision-making. This experience underscores my commitment to leveraging insights to catalyze business growth.
 
